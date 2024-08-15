@@ -1,0 +1,1450 @@
+[
+  {
+    "name": "10ZiG Technology",
+    "value": "51953"
+  },
+  {
+    "name": "2-Power",
+    "value": "47765"
+  },
+  {
+    "name": "3Dconnexion",
+    "value": "50150"
+  },
+  {
+    "name": "3M",
+    "value": "4019"
+  },
+  {
+    "name": "A10 Networks",
+    "value": "7421"
+  },
+  {
+    "name": "ALLSEE",
+    "value": "76191"
+  },
+  {
+    "name": "ALOGIC",
+    "value": "5786"
+  },
+  {
+    "name": "AMD",
+    "value": "4688"
+  },
+  {
+    "name": "AOC",
+    "value": "3251"
+  },
+  {
+    "name": "APC",
+    "value": "4598"
+  },
+  {
+    "name": "APG Cash Drawer",
+    "value": "6164"
+  },
+  {
+    "name": "ASUS",
+    "value": "3308"
+  },
+  {
+    "name": "ATEN",
+    "value": "4535"
+  },
+  {
+    "name": "AV Link",
+    "value": "43391"
+  },
+  {
+    "name": "AVer",
+    "value": "3518"
+  },
+  {
+    "name": "AbleNet",
+    "value": "3995"
+  },
+  {
+    "name": "Accuratus",
+    "value": "6185"
+  },
+  {
+    "name": "Acer",
+    "value": "3326"
+  },
+  {
+    "name": "Adaptec",
+    "value": "6167"
+  },
+  {
+    "name": "AddOn Networks",
+    "value": "3770"
+  },
+  {
+    "name": "Adesso",
+    "value": "5003"
+  },
+  {
+    "name": "Adobe",
+    "value": "3674"
+  },
+  {
+    "name": "Advantech",
+    "value": "5372"
+  },
+  {
+    "name": "Aerohive",
+    "value": "66044"
+  },
+  {
+    "name": "Aircharge",
+    "value": "45491"
+  },
+  {
+    "name": "Airtame",
+    "value": "60383"
+  },
+  {
+    "name": "Akasa",
+    "value": "44186"
+  },
+  {
+    "name": "Alcatel",
+    "value": "4145"
+  },
+  {
+    "name": "Alienware",
+    "value": "36413"
+  },
+  {
+    "name": "Allied Telesis",
+    "value": "22940"
+  },
+  {
+    "name": "Amer",
+    "value": "6296"
+  },
+  {
+    "name": "American Tourister",
+    "value": "23633"
+  },
+  {
+    "name": "Ampetronic",
+    "value": "55886"
+  },
+  {
+    "name": "AmpliFi",
+    "value": "44771"
+  },
+  {
+    "name": "Anker",
+    "value": "6131"
+  },
+  {
+    "name": "Antec",
+    "value": "25622"
+  },
+  {
+    "name": "Aopen",
+    "value": "22472"
+  },
+  {
+    "name": "Apple",
+    "value": "47"
+  },
+  {
+    "name": "Apricorn",
+    "value": "44636"
+  },
+  {
+    "name": "Arlo",
+    "value": "57302"
+  },
+  {
+    "name": "Asrock",
+    "value": "5336"
+  },
+  {
+    "name": "Atlona",
+    "value": "44594"
+  },
+  {
+    "name": "Avaya",
+    "value": "6281"
+  },
+  {
+    "name": "Axis",
+    "value": "28871"
+  },
+  {
+    "name": "B-Tech",
+    "value": "44087"
+  },
+  {
+    "name": "BTI",
+    "value": "51665"
+  },
+  {
+    "name": "Barco",
+    "value": "50993"
+  },
+  {
+    "name": "Belkin",
+    "value": "5141"
+  },
+  {
+    "name": "Benq",
+    "value": "45566"
+  },
+  {
+    "name": "BlackBerry",
+    "value": "15833"
+  },
+  {
+    "name": "Blackmagic Design",
+    "value": "66866"
+  },
+  {
+    "name": "Bosch",
+    "value": "51761"
+  },
+  {
+    "name": "Bose",
+    "value": "58922"
+  },
+  {
+    "name": "Brainboxes",
+    "value": "44012"
+  },
+  {
+    "name": "Breffo",
+    "value": "27224"
+  },
+  {
+    "name": "BrightSign",
+    "value": "44393"
+  },
+  {
+    "name": "Broadcom",
+    "value": "56639"
+  },
+  {
+    "name": "Brocade",
+    "value": "5534"
+  },
+  {
+    "name": "Brother",
+    "value": "3974"
+  },
+  {
+    "name": "Brydge",
+    "value": "34589"
+  },
+  {
+    "name": "Buffalo",
+    "value": "7601"
+  },
+  {
+    "name": "Burger King",
+    "value": "56"
+  },
+  {
+    "name": "C2G",
+    "value": "3356"
+  },
+  {
+    "name": "CHERRY",
+    "value": "3542"
+  },
+  {
+    "name": "CONNEkT Gear",
+    "value": "14540"
+  },
+  {
+    "name": "CTOUCH",
+    "value": "4826"
+  },
+  {
+    "name": "CUSTOM",
+    "value": "24137"
+  },
+  {
+    "name": "Cables Direct",
+    "value": "3290"
+  },
+  {
+    "name": "Canon",
+    "value": "3575"
+  },
+  {
+    "name": "CertaUPS",
+    "value": "44276"
+  },
+  {
+    "name": "Chief",
+    "value": "3890"
+  },
+  {
+    "name": "Chord Electronics",
+    "value": "51833"
+  },
+  {
+    "name": "Cisco",
+    "value": "4391"
+  },
+  {
+    "name": "Citizen",
+    "value": "4808"
+  },
+  {
+    "name": "Code Corporation",
+    "value": "61634"
+  },
+  {
+    "name": "Compulocks",
+    "value": "4856"
+  },
+  {
+    "name": "Conen Mounts",
+    "value": "4079"
+  },
+  {
+    "name": "Cooler Master",
+    "value": "3833"
+  },
+  {
+    "name": "Corel",
+    "value": "42638"
+  },
+  {
+    "name": "Corsair",
+    "value": "3989"
+  },
+  {
+    "name": "Cradlepoint",
+    "value": "5381"
+  },
+  {
+    "name": "Creative Labs",
+    "value": "44648"
+  },
+  {
+    "name": "Crestron Electronics",
+    "value": "47600"
+  },
+  {
+    "name": "Crucial",
+    "value": "50843"
+  },
+  {
+    "name": "CyberPower",
+    "value": "7700"
+  },
+  {
+    "name": "Cyberlink",
+    "value": "5675"
+  },
+  {
+    "name": "Cygnett",
+    "value": "23798"
+  },
+  {
+    "name": "D-Link",
+    "value": "11948"
+  },
+  {
+    "name": "DYMO",
+    "value": "25424"
+  },
+  {
+    "name": "DataLocker",
+    "value": "44267"
+  },
+  {
+    "name": "Datalogic",
+    "value": "3716"
+  },
+  {
+    "name": "Datamax O'Neil",
+    "value": "6143"
+  },
+  {
+    "name": "Datapath",
+    "value": "44510"
+  },
+  {
+    "name": "Dataproducts",
+    "value": "3647"
+  },
+  {
+    "name": "Dataram",
+    "value": "51836"
+  },
+  {
+    "name": "Dell",
+    "value": "41"
+  },
+  {
+    "name": "Dell Wyse",
+    "value": "3947"
+  },
+  {
+    "name": "Devolo",
+    "value": "4991"
+  },
+  {
+    "name": "Dicota",
+    "value": "45149"
+  },
+  {
+    "name": "Digitus",
+    "value": "63980"
+  },
+  {
+    "name": "Durable",
+    "value": "5279"
+  },
+  {
+    "name": "Duracell",
+    "value": "44642"
+  },
+  {
+    "name": "Dynabook",
+    "value": "3212"
+  },
+  {
+    "name": "Dynamode",
+    "value": "3032"
+  },
+  {
+    "name": "EIZO",
+    "value": "44972"
+  },
+  {
+    "name": "ELO",
+    "value": "74325"
+  },
+  {
+    "name": "EVGA",
+    "value": "4484"
+  },
+  {
+    "name": "EXC",
+    "value": "3167"
+  },
+  {
+    "name": "Eaton",
+    "value": "3869"
+  },
+  {
+    "name": "Edimax",
+    "value": "6026"
+  },
+  {
+    "name": "Elevation Lab",
+    "value": "32888"
+  },
+  {
+    "name": "Elgato",
+    "value": "52964"
+  },
+  {
+    "name": "Elo Touch Solutions",
+    "value": "15251"
+  },
+  {
+    "name": "Epson",
+    "value": "7670"
+  },
+  {
+    "name": "Ergo",
+    "value": "59132"
+  },
+  {
+    "name": "Ergonomic Solutions",
+    "value": "52418"
+  },
+  {
+    "name": "Ergotron",
+    "value": "45578"
+  },
+  {
+    "name": "Extreme networks",
+    "value": "4820"
+  },
+  {
+    "name": "F-SECURE",
+    "value": "6779"
+  },
+  {
+    "name": "Fairphone",
+    "value": "26114"
+  },
+  {
+    "name": "Fellowes",
+    "value": "3491"
+  },
+  {
+    "name": "Fractal Design",
+    "value": "6662"
+  },
+  {
+    "name": "Fujitsu",
+    "value": "5564"
+  },
+  {
+    "name": "G-Hold",
+    "value": "11903"
+  },
+  {
+    "name": "G-Technology",
+    "value": "4559"
+  },
+  {
+    "name": "GEAR4",
+    "value": "47573"
+  },
+  {
+    "name": "GTS",
+    "value": "52079"
+  },
+  {
+    "name": "Gamber-Johnson",
+    "value": "4031"
+  },
+  {
+    "name": "Geil",
+    "value": "12434"
+  },
+  {
+    "name": "Getac",
+    "value": "6290"
+  },
+  {
+    "name": "Gigabyte",
+    "value": "6569"
+  },
+  {
+    "name": "Gigaset",
+    "value": "6356"
+  },
+  {
+    "name": "Griffin",
+    "value": "22493"
+  },
+  {
+    "name": "HGST",
+    "value": "52904"
+  },
+  {
+    "name": "HP",
+    "value": "3050"
+  },
+  {
+    "name": "HP ENTERPRISE",
+    "value": "76173"
+  },
+  {
+    "name": "HPE",
+    "value": "12551"
+  },
+  {
+    "name": "HYPER",
+    "value": "22001"
+  },
+  {
+    "name": "Hama",
+    "value": "4169"
+  },
+  {
+    "name": "Hannspree",
+    "value": "4445"
+  },
+  {
+    "name": "Hercules",
+    "value": "7199"
+  },
+  {
+    "name": "Honeywell",
+    "value": "5183"
+  },
+  {
+    "name": "Honor",
+    "value": "39215"
+  },
+  {
+    "name": "Huawei",
+    "value": "4466"
+  },
+  {
+    "name": "Huddly",
+    "value": "54338"
+  },
+  {
+    "name": "HyperX",
+    "value": "14330"
+  },
+  {
+    "name": "Hyperkin",
+    "value": "7832"
+  },
+  {
+    "name": "Hypertec",
+    "value": "4475"
+  },
+  {
+    "name": "IBM",
+    "value": "4325"
+  },
+  {
+    "name": "IFROGZ",
+    "value": "18839"
+  },
+  {
+    "name": "ISTORAGE",
+    "value": "76335"
+  },
+  {
+    "name": "Icron",
+    "value": "51938"
+  },
+  {
+    "name": "Imation",
+    "value": "52109"
+  },
+  {
+    "name": "Incase",
+    "value": "38036"
+  },
+  {
+    "name": "Incipio",
+    "value": "22079"
+  },
+  {
+    "name": "Integral",
+    "value": "59075"
+  },
+  {
+    "name": "Intel",
+    "value": "4874"
+  },
+  {
+    "name": "Intermec",
+    "value": "4676"
+  },
+  {
+    "name": "Iomega",
+    "value": "70805"
+  },
+  {
+    "name": "JPL",
+    "value": "51935"
+  },
+  {
+    "name": "Juice",
+    "value": "34619"
+  },
+  {
+    "name": "KEMP Technologies",
+    "value": "7580"
+  },
+  {
+    "name": "KFC",
+    "value": "50"
+  },
+  {
+    "name": "KINGSTON",
+    "value": "74499"
+  },
+  {
+    "name": "KYOCERA",
+    "value": "4619"
+  },
+  {
+    "name": "Kanex",
+    "value": "34643"
+  },
+  {
+    "name": "Kaspersky Lab",
+    "value": "6824"
+  },
+  {
+    "name": "Katun",
+    "value": "74616"
+  },
+  {
+    "name": "Kensington",
+    "value": "3497"
+  },
+  {
+    "name": "Kingston Technology",
+    "value": "6500"
+  },
+  {
+    "name": "Kioxia",
+    "value": "52766"
+  },
+  {
+    "name": "Kit",
+    "value": "6644"
+  },
+  {
+    "name": "KitSound",
+    "value": "36638"
+  },
+  {
+    "name": "Knomo",
+    "value": "7733"
+  },
+  {
+    "name": "Kodak Alaris",
+    "value": "4454"
+  },
+  {
+    "name": "Kofax",
+    "value": "5732"
+  },
+  {
+    "name": "Kondor",
+    "value": "44198"
+  },
+  {
+    "name": "Konftel",
+    "value": "53459"
+  },
+  {
+    "name": "Konica Minolta",
+    "value": "5276"
+  },
+  {
+    "name": "Kramer Electronics",
+    "value": "3161"
+  },
+  {
+    "name": "LG",
+    "value": "62"
+  },
+  {
+    "name": "LaCie",
+    "value": "6974"
+  },
+  {
+    "name": "Legrand",
+    "value": "54254"
+  },
+  {
+    "name": "Leitz",
+    "value": "3569"
+  },
+  {
+    "name": "Lenovo",
+    "value": "38"
+  },
+  {
+    "name": "Lexmark",
+    "value": "3437"
+  },
+  {
+    "name": "Liberty",
+    "value": "27005"
+  },
+  {
+    "name": "Liberty AV Solutions",
+    "value": "35483"
+  },
+  {
+    "name": "Lindy",
+    "value": "4139"
+  },
+  {
+    "name": "Linksys",
+    "value": "4061"
+  },
+  {
+    "name": "Linx",
+    "value": "7577"
+  },
+  {
+    "name": "Logitech",
+    "value": "5477"
+  },
+  {
+    "name": "Logitech G",
+    "value": "5552"
+  },
+  {
+    "name": "Loxit",
+    "value": "60824"
+  },
+  {
+    "name": "MEDION",
+    "value": "22871"
+  },
+  {
+    "name": "MELLANOX",
+    "value": "74439"
+  },
+  {
+    "name": "MSI",
+    "value": "3188"
+  },
+  {
+    "name": "Makita",
+    "value": "61124"
+  },
+  {
+    "name": "Manhattan",
+    "value": "27932"
+  },
+  {
+    "name": "Maroo",
+    "value": "45425"
+  },
+  {
+    "name": "Matrox",
+    "value": "44309"
+  },
+  {
+    "name": "Maxtor",
+    "value": "64700"
+  },
+  {
+    "name": "McAfee",
+    "value": "3986"
+  },
+  {
+    "name": "McDonalds",
+    "value": "53"
+  },
+  {
+    "name": "Mellanox Technologies",
+    "value": "52067"
+  },
+  {
+    "name": "Mercury",
+    "value": "4448"
+  },
+  {
+    "name": "Mercusys",
+    "value": "25202"
+  },
+  {
+    "name": "Mersive Technologies",
+    "value": "3431"
+  },
+  {
+    "name": "Meural",
+    "value": "3881"
+  },
+  {
+    "name": "Microchip Technology",
+    "value": "5663"
+  },
+  {
+    "name": "Micron",
+    "value": "51707"
+  },
+  {
+    "name": "Microsemi",
+    "value": "74307"
+  },
+  {
+    "name": "Microsoft",
+    "value": "44"
+  },
+  {
+    "name": "Middle Atlantic Products",
+    "value": "7445"
+  },
+  {
+    "name": "Mobilis",
+    "value": "22559"
+  },
+  {
+    "name": "Monacor",
+    "value": "60191"
+  },
+  {
+    "name": "Monster",
+    "value": "3170"
+  },
+  {
+    "name": "Motorola",
+    "value": "5423"
+  },
+  {
+    "name": "Multibrackets",
+    "value": "3512"
+  },
+  {
+    "name": "NEC",
+    "value": "3341"
+  },
+  {
+    "name": "NETGEAR",
+    "value": "4049"
+  },
+  {
+    "name": "Neomounts by Newstar",
+    "value": "4844"
+  },
+  {
+    "name": "Newland",
+    "value": "4487"
+  },
+  {
+    "name": "Nexxia",
+    "value": "69239"
+  },
+  {
+    "name": "Nintendo",
+    "value": "4802"
+  },
+  {
+    "name": "Nokia",
+    "value": "36350"
+  },
+  {
+    "name": "Nortel",
+    "value": "6278"
+  },
+  {
+    "name": "Nuance",
+    "value": "6419"
+  },
+  {
+    "name": "Nvidia",
+    "value": "5408"
+  },
+  {
+    "name": "OKI",
+    "value": "5216"
+  },
+  {
+    "name": "OLYMPUS",
+    "value": "49706"
+  },
+  {
+    "name": "OPPO",
+    "value": "17159"
+  },
+  {
+    "name": "Oce",
+    "value": "4949"
+  },
+  {
+    "name": "Olivetti",
+    "value": "59843"
+  },
+  {
+    "name": "Omnicharge",
+    "value": "7706"
+  },
+  {
+    "name": "Opengear",
+    "value": "77405"
+  },
+  {
+    "name": "Origin Storage",
+    "value": "43994"
+  },
+  {
+    "name": "Overland-Tandberg",
+    "value": "4853"
+  },
+  {
+    "name": "PNY",
+    "value": "3686"
+  },
+  {
+    "name": "POLY",
+    "value": "3545"
+  },
+  {
+    "name": "PRIMERA",
+    "value": "7634"
+  },
+  {
+    "name": "Panasonic",
+    "value": "45380"
+  },
+  {
+    "name": "PanzerGlass",
+    "value": "5363"
+  },
+  {
+    "name": "Parallels",
+    "value": "5666"
+  },
+  {
+    "name": "Pebble Gear",
+    "value": "48773"
+  },
+  {
+    "name": "Peerless",
+    "value": "5576"
+  },
+  {
+    "name": "Penn Elcom",
+    "value": "44066"
+  },
+  {
+    "name": "Philips",
+    "value": "3182"
+  },
+  {
+    "name": "Pipetto",
+    "value": "48215"
+  },
+  {
+    "name": "Plusoptic",
+    "value": "3956"
+  },
+  {
+    "name": "Plustek",
+    "value": "44159"
+  },
+  {
+    "name": "Port Designs",
+    "value": "5426"
+  },
+  {
+    "name": "Prism Enclosures",
+    "value": "59765"
+  },
+  {
+    "name": "Promethean",
+    "value": "52355"
+  },
+  {
+    "name": "QNAP",
+    "value": "5873"
+  },
+  {
+    "name": "QUANTUM",
+    "value": "76353"
+  },
+  {
+    "name": "Qtx",
+    "value": "4328"
+  },
+  {
+    "name": "ROCCAT",
+    "value": "6173"
+  },
+  {
+    "name": "Ra technology",
+    "value": "5891"
+  },
+  {
+    "name": "Rackmount.IT",
+    "value": "7736"
+  },
+  {
+    "name": "Rapoo",
+    "value": "5369"
+  },
+  {
+    "name": "Razer",
+    "value": "3425"
+  },
+  {
+    "name": "ReTrak",
+    "value": "44366"
+  },
+  {
+    "name": "Ricoh",
+    "value": "4646"
+  },
+  {
+    "name": "Ruckus Wireless",
+    "value": "30983"
+  },
+  {
+    "name": "SEADA",
+    "value": "3428"
+  },
+  {
+    "name": "STARTECH",
+    "value": "71207"
+  },
+  {
+    "name": "STEELCASE",
+    "value": "75381"
+  },
+  {
+    "name": "STM",
+    "value": "7007"
+  },
+  {
+    "name": "Samsonite",
+    "value": "3764"
+  },
+  {
+    "name": "Samsung",
+    "value": "3296"
+  },
+  {
+    "name": "SanDisk",
+    "value": "6527"
+  },
+  {
+    "name": "Sapphire",
+    "value": "7727"
+  },
+  {
+    "name": "Schneider Electric",
+    "value": "4961"
+  },
+  {
+    "name": "Seagate",
+    "value": "6935"
+  },
+  {
+    "name": "SecurityXtra",
+    "value": "3998"
+  },
+  {
+    "name": "Seiko",
+    "value": "64094"
+  },
+  {
+    "name": "Seiko Instruments",
+    "value": "6152"
+  },
+  {
+    "name": "Sharp",
+    "value": "4154"
+  },
+  {
+    "name": "Siemens",
+    "value": "65"
+  },
+  {
+    "name": "Signagelive",
+    "value": "6680"
+  },
+  {
+    "name": "Siig",
+    "value": "44822"
+  },
+  {
+    "name": "Silex",
+    "value": "62207"
+  },
+  {
+    "name": "SilverNet",
+    "value": "30434"
+  },
+  {
+    "name": "Socket Mobile",
+    "value": "24728"
+  },
+  {
+    "name": "Solution Point",
+    "value": "52697"
+  },
+  {
+    "name": "SonicWall",
+    "value": "3725"
+  },
+  {
+    "name": "Sony",
+    "value": "3971"
+  },
+  {
+    "name": "SoundXtra",
+    "value": "30500"
+  },
+  {
+    "name": "Speck",
+    "value": "5207"
+  },
+  {
+    "name": "Star Micronics",
+    "value": "20384"
+  },
+  {
+    "name": "StarTech.com",
+    "value": "3422"
+  },
+  {
+    "name": "Steelseries",
+    "value": "3584"
+  },
+  {
+    "name": "Subway",
+    "value": "59"
+  },
+  {
+    "name": "Supermicro",
+    "value": "29108"
+  },
+  {
+    "name": "Swann",
+    "value": "7211"
+  },
+  {
+    "name": "Symantec",
+    "value": "6542"
+  },
+  {
+    "name": "Synology",
+    "value": "3701"
+  },
+  {
+    "name": "T1A",
+    "value": "16838"
+  },
+  {
+    "name": "TDM",
+    "value": "4847"
+  },
+  {
+    "name": "TIS GmbH",
+    "value": "6170"
+  },
+  {
+    "name": "TOA",
+    "value": "52406"
+  },
+  {
+    "name": "TP-LINK",
+    "value": "3794"
+  },
+  {
+    "name": "TV One",
+    "value": "54917"
+  },
+  {
+    "name": "TallyGenicom",
+    "value": "4001"
+  },
+  {
+    "name": "Targus",
+    "value": "6218"
+  },
+  {
+    "name": "Tech air",
+    "value": "7304"
+  },
+  {
+    "name": "Tech21",
+    "value": "51173"
+  },
+  {
+    "name": "Tenda",
+    "value": "4898"
+  },
+  {
+    "name": "Thrustmaster",
+    "value": "7022"
+  },
+  {
+    "name": "TomTom",
+    "value": "53528"
+  },
+  {
+    "name": "Toshiba",
+    "value": "5177"
+  },
+  {
+    "name": "Transcend",
+    "value": "71153"
+  },
+  {
+    "name": "Trantec",
+    "value": "57650"
+  },
+  {
+    "name": "Trendnet",
+    "value": "7322"
+  },
+  {
+    "name": "Tripp Lite",
+    "value": "3413"
+  },
+  {
+    "name": "Trust",
+    "value": "5330"
+  },
+  {
+    "name": "TwelveSouth",
+    "value": "17750"
+  },
+  {
+    "name": "URBAN ARMOR GEAR",
+    "value": "74538"
+  },
+  {
+    "name": "USRobotics",
+    "value": "66488"
+  },
+  {
+    "name": "UTAX",
+    "value": "55226"
+  },
+  {
+    "name": "Ubiquiti Networks",
+    "value": "13487"
+  },
+  {
+    "name": "Unicol",
+    "value": "3950"
+  },
+  {
+    "name": "V7",
+    "value": "5174"
+  },
+  {
+    "name": "Vaddio",
+    "value": "14789"
+  },
+  {
+    "name": "Veho",
+    "value": "27701"
+  },
+  {
+    "name": "Venom",
+    "value": "36938"
+  },
+  {
+    "name": "Ventev",
+    "value": "25532"
+  },
+  {
+    "name": "Venturer",
+    "value": "5987"
+  },
+  {
+    "name": "Vertiv",
+    "value": "4037"
+  },
+  {
+    "name": "Videk",
+    "value": "6785"
+  },
+  {
+    "name": "ViewQwest",
+    "value": "27683"
+  },
+  {
+    "name": "Viewsonic",
+    "value": "7346"
+  },
+  {
+    "name": "Vision",
+    "value": "45212"
+  },
+  {
+    "name": "Visioneer",
+    "value": "59801"
+  },
+  {
+    "name": "Wacom",
+    "value": "6209"
+  },
+  {
+    "name": "Wasp",
+    "value": "3599"
+  },
+  {
+    "name": "WatchGuard",
+    "value": "7439"
+  },
+  {
+    "name": "Welden",
+    "value": "6389"
+  },
+  {
+    "name": "Wenger",
+    "value": "77384"
+  },
+  {
+    "name": "Western Digital",
+    "value": "4544"
+  },
+  {
+    "name": "Xerox",
+    "value": "3440"
+  },
+  {
+    "name": "Xerxes",
+    "value": "44435"
+  },
+  {
+    "name": "Xiaomi",
+    "value": "28028"
+  },
+  {
+    "name": "Xvision",
+    "value": "60386"
+  },
+  {
+    "name": "Yale",
+    "value": "7172"
+  },
+  {
+    "name": "Yamaha",
+    "value": "59753"
+  },
+  {
+    "name": "Yealink",
+    "value": "6647"
+  },
+  {
+    "name": "Youjie",
+    "value": "62786"
+  },
+  {
+    "name": "ZAGG",
+    "value": "4892"
+  },
+  {
+    "name": "ZOWIE",
+    "value": "65015"
+  },
+  {
+    "name": "Zebra",
+    "value": "4817"
+  },
+  {
+    "name": "Zotac",
+    "value": "12344"
+  },
+  {
+    "name": "Zyxel",
+    "value": "4589"
+  },
+  {
+    "name": "be quiet!",
+    "value": "6590"
+  },
+  {
+    "name": "bq",
+    "value": "66830"
+  },
+  {
+    "name": "i-tec",
+    "value": "7313"
+  },
+  {
+    "name": "iiyama",
+    "value": "7463"
+  },
+  {
+    "name": "ioSafe",
+    "value": "7748"
+  },
+  {
+    "name": "lockncharge",
+    "value": "7583"
+  },
+  {
+    "name": "mophie",
+    "value": "6833"
+  },
+  {
+    "name": "trendz",
+    "value": "49160"
+  }
+]
